@@ -5,3 +5,5 @@
 Java WebSockets：[https://github.com/TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)
 
 后端：[https://github.com/Guolianxing/chatserver](https://github.com/Guolianxing/chatserver)
+
+打包exe：[https://blog.csdn.net/qq_29496057/article/details/53333419](https://blog.csdn.net/qq_29496057/article/details/53333419)
