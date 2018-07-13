@@ -5,7 +5,9 @@ package com.chat.chatclient;
  */
 public class GlobalStore {
 
-    public static final String SERVER_URL = "http://47.104.246.160:8080";
+    public static final String SERVER_IP = "47.104.246.160";
+
+    public static final String SERVER_URL = "http://" + SERVER_IP + ":8080";
 
     public static final String LOGIN_URL = SERVER_URL + "/user/login";
 

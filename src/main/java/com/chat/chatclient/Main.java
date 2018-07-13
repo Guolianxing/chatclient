@@ -114,7 +114,7 @@ public class Main extends Application {
                 User user = (User) JSONObject.toBean(data.getJSONObject("user"), User.class);
                 GlobalStore.USER = user;
                 // TODO 这里登录成功后要跳转到主界面，同时去连接webSocket
-                GlobalStore.SOCKET_URL = "ws://47.104.246.160:8080/socket?token=" + token;
+                GlobalStore.SOCKET_URL = "ws://" + GlobalStore.SERVER_IP + ":8080/socket?token=" + token;
                 loginForm.close();
                 mainStage = getMainStage();
                 mainStage.show();
