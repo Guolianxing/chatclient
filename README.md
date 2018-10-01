@@ -6,4 +6,9 @@ Java WebSockets：[https://github.com/TooTallNate/Java-WebSocket](https://github
 
 后端：[https://github.com/Guolianxing/chatserver](https://github.com/Guolianxing/chatserver)
 
-打包exe：[https://blog.csdn.net/qq_29496057/article/details/53333419](https://blog.csdn.net/qq_29496057/article/details/53333419)
+打包exe：[https://blog.csdn.net/qq_29496057/article/details/53333419](https://blog.csdn.net/qq_29496057/article/details/53333419)  
+![](imgs/1.png)  
+![](imgs/2.png)   
+![](imgs/3.png)  
+![](imgs/4.png)  
+![](imgs/5.png)
